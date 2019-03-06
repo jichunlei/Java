@@ -1,4 +1,4 @@
-package com.jicl.io;
+package com.jicl.io.test;
 
 import java.io.File;
 import java.io.FileInputStream;
